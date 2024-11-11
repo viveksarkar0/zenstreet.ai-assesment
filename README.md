@@ -50,7 +50,8 @@ search: user can search event :
 
 user can add photo video:
 <img width="1470" alt="Screenshot 2024-11-12 at 12 19 30 AM" src="https://github.com/user-attachments/assets/23b2e295-be32-474c-af89-f04796d2fd43">
-
+aslo added skeleton :
+on refresh you can check
 
 License
 This project is licensed under the MIT License.
