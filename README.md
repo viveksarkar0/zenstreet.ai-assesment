@@ -35,14 +35,26 @@ Visit http://localhost:3000 in your browser.
 
 API Documentation (if applicable)
 [Include any details on backend APIs, endpoints, and their usage]
-
+```
 Features
-User Authentication: JWT-based user login
+
 Calendar Scheduling: FullCalendar for event creation and scheduling
+<img width="1470" alt="Screenshot 2024-11-12 at 12 20 11 AM" src="https://github.com/user-attachments/assets/3e83c94d-4eee-4d6e-b7b0-8d69760100e5">
+ 
+
 Real-time Notifications: Browser notifications for event reminders
+<img width="1470" alt="Screenshot 2024-11-12 at 12 21 12 AM" src="https://github.com/user-attachments/assets/eb00072e-1fdd-47c1-879a-1034c0929916">
+
 Improvements
-[Describe any extra features you’ve implemented]
-[Enhance the UI with any design improvements made]
+
+search: user can search event
+
+<img width="1470" alt="Screenshot 2024-11-12 at 12 20 43 AM" src="https://github.com/user-attachments/assets/8b927558-afca-47a1-89c4-19cb32f1ecd0">
+:\
+
+user can add photo video:
+<img width="1470" alt="Screenshot 2024-11-12 at 12 19 30 AM" src="https://github.com/user-attachments/assets/23b2e295-be32-474c-af89-f04796d2fd43">
+
 [Optimized performance by describing any optimizations]
 License
 This project is licensed under the MIT License.
