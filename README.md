@@ -47,15 +47,15 @@ Real-time Notifications: Browser notifications for event reminders
 
 Improvements
 
-search: user can search event
+search: user can search event :
 
 <img width="1470" alt="Screenshot 2024-11-12 at 12 20 43 AM" src="https://github.com/user-attachments/assets/8b927558-afca-47a1-89c4-19cb32f1ecd0">
-:\
+
 
 user can add photo video:
 <img width="1470" alt="Screenshot 2024-11-12 at 12 19 30 AM" src="https://github.com/user-attachments/assets/23b2e295-be32-474c-af89-f04796d2fd43">
 
-[Optimized performance by describing any optimizations]
+
 License
 This project is licensed under the MIT License.
 
