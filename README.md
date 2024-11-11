@@ -1,5 +1,5 @@
 # ZenStreet AI Assessment
-
+live link: https://zenstreet-ai-assesment.vercel.app
 ## Technologies Used
 - **Frontend**: React.js, Tailwind CSS ,shadcn ui, fullcalendar
 
@@ -28,6 +28,7 @@ yarn install
 npm install
 
 Visit http://localhost:3000 in your browser.
+vercel live link: https://zenstreet-ai-assesment.vercel.app
 
 API Documentation (if applicable)
 [Include any details on backend APIs, endpoints, and their usage]
