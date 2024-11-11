@@ -1,37 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ZenStreet AI Assessment
 
-## Getting Started
+## Technologies Used
+- **Frontend**: React.js, Tailwind CSS ,shadcn ui, fullcalendar
 
-First, run the development server:
+- **Database**: localstorages
+- **Deployment**: Vercel, GitHub Actions
 
+## Setup and Running Instructions
+
+### Prerequisites
+Ensure you have the following installed:
+- Node.js
+- Git
+- Yarn (or npm)
+
+### Installation
+Clone the repository:
 ```bash
-npm run dev
+git clone https://github.com/viveksarkar0/zenstreet.ai-assesment.git
+cd zenstreet.ai-assesment
+Install dependencies:
+
+bash
+Copy code
+yarn install
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+
+Visit http://localhost:3000 in your browser.
+
+API Documentation (if applicable)
+[Include any details on backend APIs, endpoints, and their usage]
 ```
+Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Calendar Scheduling: FullCalendar for event creation and scheduling
+<img width="1470" alt="Screenshot 2024-11-12 at 12 20 11 AM" src="https://github.com/user-attachments/assets/3e83c94d-4eee-4d6e-b7b0-8d69760100e5">
+ 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Real-time Notifications: Browser notifications for event reminders
+<img width="1470" alt="Screenshot 2024-11-12 at 12 21 12 AM" src="https://github.com/user-attachments/assets/eb00072e-1fdd-47c1-879a-1034c0929916">
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Improvements
 
-## Learn More
+search: user can search event :
 
-To learn more about Next.js, take a look at the following resources:
+<img width="1470" alt="Screenshot 2024-11-12 at 12 20 43 AM" src="https://github.com/user-attachments/assets/8b927558-afca-47a1-89c4-19cb32f1ecd0">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+user can add photo video:
+<img width="1470" alt="Screenshot 2024-11-12 at 12 19 30 AM" src="https://github.com/user-attachments/assets/23b2e295-be32-474c-af89-f04796d2fd43">
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+License
+This project is licensed under the MIT License.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# zenstreet.ai-assesment
