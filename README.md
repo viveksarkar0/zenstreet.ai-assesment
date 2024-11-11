@@ -4,10 +4,9 @@
 ZenStreet AI is an innovative project designed for [brief project goal or description]. This project leverages cutting-edge technologies to provide [mention core functionality, e.g., AI-driven insights, real-time data analysis, etc.].
 
 ## Technologies Used
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: [Your Database]
-- **Other Libraries**: FullCalendar, react-toastify
+- **Frontend**: React.js, Tailwind CSS ,shadcn ui, fullcalendar
+
+- **Database**: localstorages
 - **Deployment**: Vercel, GitHub Actions
 
 ## Setup and Running Instructions
